@@ -1,2 +1,4 @@
 # python-practice
-Practice records and notes.
+
+
+This repo contains some of my practice records.
